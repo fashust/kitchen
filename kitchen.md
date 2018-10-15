@@ -64,3 +64,10 @@
 ## PROTHERM JAGUAR 24
 
 ![j](./img/j.png)
+
+
+# Вытяжка
+
+## FRANKE FBI 537 XL LED (110.0442.943)
+
+![h](./img/h.jpg)
